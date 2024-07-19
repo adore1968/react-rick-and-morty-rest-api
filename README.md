@@ -1,8 +1,9 @@
-# React + Vite
+<h1 align="center">React, Rick and Morty REST API (con Vitejs y Github Pages)</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<img src="https://img.shields.io/badge/STATUS-FINALIZADO-green" display="inline" >
 
-Currently, two official plugins are available:
+En este proyecto practique las bases de React creando un proyecto sencillo usando la REST API de Rick And Morty. En este ejemplo crearem una aplicación web que permite mostrar los personajes de la serie de television; además de usar Bootstrap para estilizar la pagina y Vitejs para crear el proyecto y finalmente desplegarlo gratuitamente en un servicio de despliegue de archivos estáticos como lo es Github Pages.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Opera Instantánea_2024-07-19_152336_adore1968 github io](https://github.com/user-attachments/assets/483d8f36-8111-4f5f-9d58-87a6d2a0d95e)
+
+
